@@ -28,15 +28,4 @@ The project helps in identifying pollution trends and generating early warnings 
 ---
 
 ## 📂 Project Structure
-air-quality-dashboard/
-├── backend/
-│   └── main.py          <-- Python FastAPI Engine
-├── frontend/            <-- Web Application UI
-│   ├── index.html
-│   ├── css/
-│   │   └── styles.css
-│   └── js/
-│       ├── app.js
-│       └── tailwind-config.js
-└── README.md
 
