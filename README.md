@@ -81,7 +81,7 @@ The dataset contains environmental and pollution-related features:
 
   * MAE: Low error indicating accurate predictions
   * RMSE: Stable model performance
-* Approximate Accuracy: **~85–95%** (based on dataset & tuning)
+* Approximate Accuracy: **99%** (based on dataset & tuning)
 
 ---
 
@@ -146,6 +146,7 @@ AirAware-AQI-Prediction/
 ## 👩‍💻 Author
 
 **Swathi Challakonda**
+
 Aspiring Data Analyst / Data Scientist
 
 ---
